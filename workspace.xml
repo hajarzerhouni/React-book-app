@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2ed4075-1108-481e-8f77-9dcbe4b181df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/BookDetails/BookDetails.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/BookDetails/BookDetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/BookList/Book.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/BookList/BookList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/BookList/BookList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/Loader/Loader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/Loader/Loader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/Navbar/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/SearchForm/SearchForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/components/SearchForm/SearchForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/context..js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/images/about-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/images/cover_not_found.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/images/library-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/images/loader.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/pages/About/About.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/pages/About/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookhub-app-using-react-js-and-openlib-api-master/src/pages/Home/Home.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2N6Z4DWeGE749JWJ06kpLvfr1UX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/issam med/Downloads/booklib-app-using-react-js-and-openlib-api-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2ed4075-1108-481e-8f77-9dcbe4b181df" name="Changes" comment="" />
+      <created>1678986298980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678986298980</updated>
+      <workItem from="1678986300370" duration="2313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
